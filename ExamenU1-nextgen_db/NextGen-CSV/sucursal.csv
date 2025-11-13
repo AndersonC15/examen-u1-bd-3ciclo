@@ -1,0 +1,11 @@
+id_sucursal,nombre,ciudad,direccion,telefono
+1,NextGen_LojaNorte,Loja,Av. Universitaria y Sucre,991112233
+2,NextGen_LojaSur,Loja,Calle Rocafuerte y 9 de Octubre,994445566
+3,NextGen_LojaCentro,Loja,Av. Amazonas y Colón,985556677
+4,NextGen_LojaOeste,Loja,Av. Solano y Bolívar,983332211
+5,NextGen_CatamayoCentro,Catamayo,Calle Bolívar y 10 de Agosto,997778899
+6,NextGen_CatamayoNorte,Catamayo,Av. La Paz y Guayaquil,998889900
+7,NextGen_Macara,Macara,Calle 24 de Mayo y Sucre,999990011
+8,NextGen_Zozoranga,Zozoranga,Av. Principal y 5 de Junio,991113322
+9,NextGen_Calvas,Calvas,Calle Central y Amazonas,992224433
+10,NextGen_Paltas,Paltas,Av. Libertad y Colón,993335544

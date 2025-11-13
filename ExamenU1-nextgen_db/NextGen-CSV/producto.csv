@@ -1,0 +1,61 @@
+id_producto,nombre,descripcion,stock,precio_unitario,id_marca,id_categoria
+1,Almacenamiento Kingston 1,Almacenamiento de la marca Kingston modelo 1,10,777.34,7,5
+2,Refrigeración ASUS 2,Refrigeración de la marca ASUS modelo 2,90,1420.71,4,7
+3,Refrigeración AMD 3,Refrigeración de la marca AMD modelo 3,61,946.83,2,7
+4,Almacenamiento Seagate 4,Almacenamiento de la marca Seagate modelo 4,9,248.16,8,5
+5,Procesadores Gigabyte 5,Procesadores de la marca Gigabyte modelo 5,96,609.02,5,1
+6,Placas Madre Cooler Master 6,Placas Madre de la marca Cooler Master modelo 6,81,565.39,10,3
+7,Fuentes de Poder NVIDIA 7,Fuentes de Poder de la marca NVIDIA modelo 7,42,573.73,3,6
+8,Gabinetes Kingston 8,Gabinetes de la marca Kingston modelo 8,80,1241.16,7,8
+9,Placas Madre Corsair 9,Placas Madre de la marca Corsair modelo 9,7,973.78,6,3
+10,Refrigeración Cooler Master 10,Refrigeración de la marca Cooler Master modelo 10,26,100.94,10,7
+11,Fuentes de Poder Corsair 11,Fuentes de Poder de la marca Corsair modelo 11,44,1016.97,6,6
+12,Gabinetes Western Digital 12,Gabinetes de la marca Western Digital modelo 12,82,528.85,9,8
+13,Gabinetes NVIDIA 13,Gabinetes de la marca NVIDIA modelo 13,85,112.18,3,8
+14,Almacenamiento NVIDIA 14,Almacenamiento de la marca NVIDIA modelo 14,11,1435.4,3,5
+15,Fuentes de Poder Cooler Master 15,Fuentes de Poder de la marca Cooler Master modelo 15,33,910.95,10,6
+16,Procesadores Intel 16,Procesadores de la marca Intel modelo 16,92,710.97,1,1
+17,Memoria RAM AMD 17,Memoria RAM de la marca AMD modelo 17,86,556.09,2,4
+18,Gabinetes Western Digital 18,Gabinetes de la marca Western Digital modelo 18,25,768.72,9,8
+19,Almacenamiento NVIDIA 19,Almacenamiento de la marca NVIDIA modelo 19,13,712.8,3,5
+20,Memoria RAM Kingston 20,Memoria RAM de la marca Kingston modelo 20,95,688.63,7,4
+21,Gabinetes Corsair 21,Gabinetes de la marca Corsair modelo 21,24,702.45,6,8
+22,Fuentes de Poder Kingston 22,Fuentes de Poder de la marca Kingston modelo 22,63,952.21,7,6
+23,Gabinetes Gigabyte 23,Gabinetes de la marca Gigabyte modelo 23,97,1277.72,5,8
+24,Gabinetes Gigabyte 24,Gabinetes de la marca Gigabyte modelo 24,64,89.0,5,8
+25,Tarjetas Gráficas AMD 25,Tarjetas Gráficas de la marca AMD modelo 25,5,1423.9,2,2
+26,Tarjetas Gráficas ASUS 26,Tarjetas Gráficas de la marca ASUS modelo 26,35,523.4,4,2
+27,Memoria RAM Corsair 27,Memoria RAM de la marca Corsair modelo 27,6,147.03,6,4
+28,Fuentes de Poder Western Digital 28,Fuentes de Poder de la marca Western Digital modelo 28,34,1482.66,9,6
+29,Memoria RAM AMD 29,Memoria RAM de la marca AMD modelo 29,96,146.85,2,4
+30,Gabinetes Gigabyte 30,Gabinetes de la marca Gigabyte modelo 30,79,1020.1,5,8
+31,Refrigeración Western Digital 31,Refrigeración de la marca Western Digital modelo 31,97,1096.67,9,7
+32,Almacenamiento Cooler Master 32,Almacenamiento de la marca Cooler Master modelo 32,39,894.31,10,5
+33,Tarjetas Gráficas Gigabyte 33,Tarjetas Gráficas de la marca Gigabyte modelo 33,91,1192.48,5,2
+34,Fuentes de Poder NVIDIA 34,Fuentes de Poder de la marca NVIDIA modelo 34,39,672.48,3,6
+35,Fuentes de Poder Seagate 35,Fuentes de Poder de la marca Seagate modelo 35,71,680.64,8,6
+36,Almacenamiento Kingston 36,Almacenamiento de la marca Kingston modelo 36,18,713.12,7,5
+37,Almacenamiento NVIDIA 37,Almacenamiento de la marca NVIDIA modelo 37,54,951.88,3,5
+38,Placas Madre AMD 38,Placas Madre de la marca AMD modelo 38,83,1299.22,2,3
+39,Almacenamiento Gigabyte 39,Almacenamiento de la marca Gigabyte modelo 39,70,1122.82,5,5
+40,Tarjetas Gráficas Kingston 40,Tarjetas Gráficas de la marca Kingston modelo 40,98,511.06,7,2
+41,Almacenamiento Cooler Master 41,Almacenamiento de la marca Cooler Master modelo 41,30,803.92,10,5
+42,Tarjetas Gráficas Cooler Master 42,Tarjetas Gráficas de la marca Cooler Master modelo 42,65,264.09,10,2
+43,Fuentes de Poder Intel 43,Fuentes de Poder de la marca Intel modelo 43,45,1080.36,1,6
+44,Gabinetes Kingston 44,Gabinetes de la marca Kingston modelo 44,77,373.16,7,8
+45,Fuentes de Poder AMD 45,Fuentes de Poder de la marca AMD modelo 45,32,1256.84,2,6
+46,Memoria RAM Corsair 46,Memoria RAM de la marca Corsair modelo 46,57,174.24,6,4
+47,Fuentes de Poder Kingston 47,Fuentes de Poder de la marca Kingston modelo 47,76,920.9,7,6
+48,Fuentes de Poder Intel 48,Fuentes de Poder de la marca Intel modelo 48,27,948.62,1,6
+49,Tarjetas Gráficas AMD 49,Tarjetas Gráficas de la marca AMD modelo 49,50,1166.57,2,2
+50,Almacenamiento Gigabyte 50,Almacenamiento de la marca Gigabyte modelo 50,40,231.51,5,5
+51,Memoria RAM Cooler Master 51,Memoria RAM de la marca Cooler Master modelo 51,78,1181.23,10,4
+52,Procesadores Seagate 52,Procesadores de la marca Seagate modelo 52,70,376.46,8,1
+53,Placas Madre AMD 53,Placas Madre de la marca AMD modelo 53,81,397.24,2,3
+54,Refrigeración ASUS 54,Refrigeración de la marca ASUS modelo 54,78,1143.48,4,7
+55,Almacenamiento Intel 55,Almacenamiento de la marca Intel modelo 55,37,1017.54,1,5
+56,Gabinetes Corsair 56,Gabinetes de la marca Corsair modelo 56,55,1007.25,6,8
+57,Placas Madre Corsair 57,Placas Madre de la marca Corsair modelo 57,43,269.66,6,3
+58,Memoria RAM Kingston 58,Memoria RAM de la marca Kingston modelo 58,9,458.58,7,4
+59,Fuentes de Poder Cooler Master 59,Fuentes de Poder de la marca Cooler Master modelo 59,96,604.48,10,6
+60,Refrigeración Gigabyte 60,Refrigeración de la marca Gigabyte modelo 60,22,809.97,5,7
